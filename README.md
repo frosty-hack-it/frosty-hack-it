@@ -1,15 +1,14 @@
 # About Me
 
-- 👋 Hi, I’m Frosty
-- 👀 I’m interested in software development engineering
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on tech-related projects in a vacation work/internship setting
-- 📫 How to reach me: academics.mosamabula@gmail.com
+- 👋 Hi, I’m Frosty!
+- 👀 I’m interested in software development engineering.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on tech-related projects in a vacation work/internship setting.
+- 📫 How to reach me: academics.mosamabula@gmail.com.
 
 ## Background
 
-- 🎓 I am studying BSc (Eng) Electrical Engineering at University of the Witwatersrand.
-- 💼 I currently work at [your current job or project], where I [briefly describe your role or responsibilities].
+- 🎓 I am studying BSc (Eng) Electrical Engineering at the University of the Witwatersrand.
 - 💡 I'm enthusiastic about software development.
 - 🌐 You can find my personal site on https://www.mansamabula.com.
 
