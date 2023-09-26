@@ -10,7 +10,7 @@
 
 - 🎓 I am studying BSc (Eng) Electrical Engineering at the University of the Witwatersrand.
 - 💡 I'm enthusiastic about software development.
-- 🌐 You can find my personal site on https://mosawebwizard.me.
+- 🌐 You can find my personal site on https://frosty-hack-it.github.io.
 
 ## My Interests
 
