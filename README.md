@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m Mosa! but you can call me Frosty!
+- 👋 Hi, I’m Mosa!
 - 👀 I’m interested in software development engineering.
 - 🌱 I’m currently learning Java and Cloud Engineering.
 - 💞️ I’m looking to collaborate on tech-related projects in a vacation work/internship setting.
@@ -10,7 +10,7 @@
 
 - 🎓 I am studying BSc (Eng) Electrical Engineering at the University of the Witwatersrand.
 - 💡 I'm enthusiastic about software development.
-- 🌐 You can find my personal site on https://frosty-hack-it.github.io.
+- 🌐 You can find my personal site on https://mosa-mabula.github.io.
 
 ## My Interests
 
