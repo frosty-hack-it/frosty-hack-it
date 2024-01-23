@@ -2,26 +2,25 @@
 
 - 👋 Hi, I’m Mosa!
 - 👀 I’m interested in software development engineering.
-- 🌱 I’m currently learning Java and Cloud Engineering.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on tech-related projects in a vacation work/internship setting.
 - 📫 How to reach me: academics.mosamabula@gmail.com.
 
 ## Background
 
-- 🎓 I am studying BSc (Eng) Electrical Engineering at the University of the Witwatersrand.
+- 🎓 I am studying BSc Computer Science at Eduvos.
 - 💡 I'm enthusiastic about software development.
 - 🌐 You can find my personal site on https://mosa-mabula.github.io.
 
 ## My Interests
 
-- 🚀 I'm passionate about Software Development, Cloud Engineering, Data Analytics, and Machine Learning.
+- 🚀 I'm passionate about Software Development and Cloud Engineering.
 - 📚 I'm constantly learning and exploring new technologies, and I enjoy working with Java.
 - 🌱 I believe in the power of open-source collaboration and contribute to projects that align with my values.
 
 ## Get in Touch
 
 - 📫 Feel free to reach out to me via academics.mosamabula@gmail.com.
-- 💬 Let's connect on Instagram (mansa.py) for tech discussions and updates.
 
 ## Projects
 
